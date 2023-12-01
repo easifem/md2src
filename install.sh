@@ -1,5 +1,5 @@
 #/bin/env bash
-build_dir=${EASIFEM_BUILD_DIR}/tests/build
+build_dir=${EASIFEM_BUILD_DIR}/apps/md2src/build
 mkdir -p ${build_dir}
 mkdir -p ${EASIFEM_APP}/bin
 rm -rf ${build_dir}
